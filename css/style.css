@@ -1,0 +1,10 @@
+.inputText { 
+  color: #FFFFFF; 
+  font-family: arial; 
+  background: #FF0000; /* membuat background merah*/ 
+  font-weight: bold; /* membuat text bold */   
+ }
+
+.background{
+	background: #7CF016
+} 
